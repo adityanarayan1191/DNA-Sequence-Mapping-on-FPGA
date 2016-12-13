@@ -4,10 +4,10 @@
 
 Team Members:
 
-1. Aditya Narayan
+1. [Aditya Narayan](https://github.com/adityanarayan1191)
 2. Siva Perumal
-3. Sarthak Jagetia
-4. Aastha Anand
+3. [Sarthak Jagetia](https://github.com/sarthakjagetia)
+4. [Aastha Anand](https://github.com/aastha24)
 5. Anand Shivalkar
 
 
