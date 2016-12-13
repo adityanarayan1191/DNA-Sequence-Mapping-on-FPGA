@@ -20,7 +20,8 @@ How to run?
 3. The indexes where the short reads can potentially map can be entered into the sr_index "wires".
 4. The corresponding reference sequence has to be input in the ref_seq "wires".
 5. The length of the short has to be entered in the n "parameter". 
-*Note - Currently, the code can only support equal length short reads.*
+
+**Note - Currently, the code can only support equal length short reads.**
 
 Synthesize and build `DNA_Sequence_Mapping_top.v` and generate the programming file.
 
