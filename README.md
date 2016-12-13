@@ -1,8 +1,20 @@
-# EC551
+##![ScreenShot](https://www.bu.edu/brand/files/2012/10/master_logo.gif)
+# DNA-Mappers
+**EC551 Project: FPGA Acceleration of DNA Sequence Mapping**
+
+Team Members:
+
+1. Aditya Narayan
+2. Siva Perumal
+3. Sarthak Jagetia
+4. Aastha Anand
+5. Anand Shivalkar
+
 
 The DNA_Sequence_Mapping_top.v is the top level verilog which calls the Smith Waterman and the VGA modules. Since the integration of the indexing block is not working with Place and Route, the indexes values and the corresponding reference sequences are hardcoded. I am currently working on it now and will update it soon. 
 
 How to run?
+
 1. The reference sequence is input in the DNA_Sequence_Mapping_top.v in the reference "wire".
 2. The short reads can be input at the short_read "wires".
 3. The indexes where the short reads can potentially map can be entered into the sr_index "wires".
@@ -15,5 +27,3 @@ Set up the ucf file to contain push-buttons for "reset" and "button".
 
 The output matched sequence with the SNP's and indels should display on the screen.
 
-
-# DNA-Sequence-Mapping-on-FPGA
