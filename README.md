@@ -22,7 +22,7 @@ How to run?
 5. The length of the short has to be entered in the n "parameter". 
 *Note - Currently, the code can only support equal length short reads.*
 
-Synthesize and build DNA_Sequence_Mapping_top.v and generate the programming file.
+Synthesize and build `DNA_Sequence_Mapping_top.v` and generate the programming file.
 
 Set up the ucf file to contain push-buttons for "reset" and "button".
 
