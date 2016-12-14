@@ -29,3 +29,5 @@ Set up the ucf file to contain push-buttons for "reset" and "button".
 
 The output matched sequence with the SNP's and indels should display on the screen.
 
+----
+
